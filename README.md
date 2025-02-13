@@ -12,16 +12,16 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Hamza Ali</h1>
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer</h3>
-<p>I am a passionate AI/ML Engineer and Full Stack Developer who thrives on building intelligent solutions and scalable applications. I love working at the intersection of Machine Learning, LLMs, and Web Development, constantly exploring new technologies to push the boundaries of innovation.</p>p
-- 🔭 I’m currently working on **Cop Companion - Police Information System**
+<p>I am a passionate AI/ML Engineer and Full Stack Developer who thrives on building intelligent solutions and scalable applications. I love working at the intersection of Machine Learning, LLMs, and Web Development, constantly exploring new technologies to push the boundaries of innovation.</p>
+- **ResumeATS** An AI-powered resume analysis and builder system using LLMs.
 
-- 🌱 I’m currently learning **Blockchain Technology,web 3.0 and metaverse**
+- **Imaginify** AI Powered Art Generator – Generating stunning AI-driven artwork using deep learning.
 
-- 📝 I write articles on [techyaim.com](techyaim.com)
+- My Personal Portfolio [hamzaaly](https://hamzaaly.vercel.app/)
 
-- 💬 Ask me about **anything related to tech :)**
+- Ask me about **anything related to tech :)**
 
-- 📫 How to reach me **hamzaaly105@gmail.com**
+- How to reach me **hamzaaly105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
