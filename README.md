@@ -11,8 +11,8 @@ Hamzaali146/Hamzaali146 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Hamza Ali</h1>
-<h3 align="center">I am Full stack Developer and passionate about technologies and always eager to learn more about it Enthusiastic about Blockchain</h3>
-
+<h3 align="center">AI/ML Enthusiast | Full Stack Developer</h3>
+<p>I am a passionate AI/ML Engineer and Full Stack Developer who thrives on building intelligent solutions and scalable applications. I love working at the intersection of Machine Learning, LLMs, and Web Development, constantly exploring new technologies to push the boundaries of innovation.</p>p
 - 🔭 I’m currently working on **Cop Companion - Police Information System**
 
 - 🌱 I’m currently learning **Blockchain Technology,web 3.0 and metaverse**
