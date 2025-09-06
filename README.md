@@ -10,7 +10,7 @@
 Hamzaali146/Hamzaali146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Hamza Ali</h1>
+<h1 align="center">Hi, I'm Hamza Ali</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer</h3>
 <p>I am a passionate AI/ML Engineer and Full Stack Developer who thrives on building intelligent solutions and scalable applications. I love working at the intersection of Machine Learning, LLMs, and Web Development, constantly exploring new technologies to push the boundaries of innovation.</p>
 - **ResumeATS** An AI-powered resume analysis and builder system using LLMs.
