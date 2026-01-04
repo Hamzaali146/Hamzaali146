@@ -44,9 +44,9 @@ Besides, I studied <b>Computer Systems Engineering</b> at <b>NED University of E
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
  <!-- Github Readme Stats -->
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Hamzaali146&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-</p>
+</p> -->
  <!-- Github Readme Stats -->
 
  <!-- Waka Time in Depth Stats -->
