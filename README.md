@@ -96,5 +96,8 @@ Besides, I studied <b>Computer Systems Engineering</b> at <b>NED University of E
 <p align = 'right'>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF6bGNndzJmNDdtdDlqcDJ1Zmp2M2VqMGJkMTYxcTFoZ24yZ3kyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="40%">
 </p>
+<p align = 'left'>
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV5cWNjOXBnc3FvcWxsanl1YTM2MWcwaHN5bzZzNzRvdzV1emRxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="40%">
+</p>
 
 <br>
