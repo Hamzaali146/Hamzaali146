@@ -50,17 +50,17 @@ Besides, I studied <b>Computer Systems Engineering</b> at <b>NED University of E
  <!-- Github Readme Stats -->
 
  <!-- Waka Time in Depth Stats -->
-<p align="center">
+<!-- <p align="center">
 <a herf = "https://wakatime.com/@Hamzaali146">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamzaali146&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
-</p>
+</p> -->
   <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
-<!-- <p align="center">
+<p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamzaali146&theme=moltack"  />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamzaali146&theme=moltack"  />
-</p> -->
+</p> 
 
   <!-- Github Profile Summary Cards -->
 
