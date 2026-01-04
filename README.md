@@ -57,10 +57,10 @@ Besides, I studied <b>Computer Systems Engineering</b> at <b>NED University of E
   <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
-<p align="center">
+<!-- <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamzaali146&theme=moltack"  />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamzaali146&theme=moltack"  />
-</p>
+</p> -->
 
   <!-- Github Profile Summary Cards -->
 
