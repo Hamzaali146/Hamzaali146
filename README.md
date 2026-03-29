@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <a href = "https://drive.google.com/file/d/11gkLpjaAn-KTZB_wed9reg5qM2_TRmTu/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Hamza-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@aaly.galy" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
-<a href = "https://hamzaaly.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
+<a href = "https://hamza.techyaim.com/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
 </div>
 
  <!-- Banner & Links -->
