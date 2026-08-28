@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center" width="150px">
 <h3 align="center">AI/ML Engineer | Robotics Enthusiast </h3>
   
-I am currently an <b>Associate AI/ML Engineer  </b> at **[shispare](https://www.linkedin.com/company/shispare/posts/?feedView=all)**. <br />
+I am currently an <b>Exploring Embedded vlsi integrated with AI ML </b>  <br />
 <p>I am a passionate AI/ML Engineer who thrives on building intelligent solutions and scalable applications based on Deep Learning and computer vision backbones. I love working at the intersection of Machine Learning, LLMs, and Robotics, constantly exploring new technologies to push the boundaries of innovation.</p> <br />
 Besides, I studied <b>Computer Systems Engineering</b> at <b>NED University of Engineering & Technology</b>. <br />
 
